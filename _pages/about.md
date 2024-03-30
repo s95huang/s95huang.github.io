@@ -19,7 +19,7 @@ redirect_from:
 
 I'm currently a PhD student at the University of Waterloo. My research focuses on muti-sensor fusion for perception, LLM-enabled autonomous driving, and learning-based planning, control, and prediction. I have 4 years of work experience in ADAS systems and autonomous driving software development across passenger vehicles, heavy-duty trucks, and mining vehicles.
 
-<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -51,9 +51,11 @@ I'm currently a PhD student at the University of Waterloo. My research focuses o
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-2023.05 - Present, Ph.D. in Mechanical and Mechatronics Engineering, University of Waterloo
-2018 - 2020, M.A.Sc. in Mechanical and Mechatronics Engineering, University of Waterloo
-2014 - 2018, B.Sc. in Mechanical Engineering, Pennsylvania State University
+- *2023.05 - Present*, Ph.D. in Mechanical and Mechatronics Engineering, University of Waterloo
+
+- *2018 - 2020*, M.A.Sc. in Mechanical and Mechatronics Engineering, University of Waterloo
+
+- *2014 - 2018*, B.Sc. in Mechanical Engineering, Pennsylvania State University
 
 
 <!-- # 💬 Invited Talks -->
@@ -61,6 +63,6 @@ I'm currently a PhD student at the University of Waterloo. My research focuses o
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Work
+<!-- # 💻 Work -->
 
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

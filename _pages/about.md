@@ -17,18 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a PhD student at the University of Waterloo. My research focuses on muti-sensor fusion for perception, LLM-enabled autonomous driving, and learning-based planning, control, and prediction. I have 4 years of work experience in ADAS systems and autonomous driving software development across passenger vehicles, heavy-duty trucks, and mining vehicles.
+I'm currently a PhD candidate at the University of Waterloo. My research mainly focuses on the application of LLMs in autonomous driving. Aside from that, I am actively working on integrating learning-based algorithms into vehicle and energy systems (prediction, control etc.). 
 
-<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I have 4 years of work experience in ADAS systems and autonomous driving software development across passenger vehicles, heavy-duty trucks, and mining vehicles.
+
+Please email me at s95huang@uwaterloo.ca if you are interested in my research, including potential collaborations, or if you have any questions.
+
+<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.08*:  I have completed my comprehensive exam.
+- *2024.07*: 2 papers are accepted by ITSC 2024.
+- *2023.05*: I have joined the University of Waterloo as a Ph.D. student at MSV Lab.
 
 # 📝 Publications 
+
+
+## Journal Papers
+
+- Wenrui Ye, Munur Sacit Herdem, **Shucheng Huang**, Wei Sun, Jun Liu, Jatin Nathwani, John Z Wen. Component capacity optimization of a renewable energy system using data-driven two-stage algorithmic approach. *Energy Conversion and Management*, 312: 118588, 2024.
+
+
+- Yaodong Cui, **Shucheng Huang***, Jiaming Zhong, Zhenan Liu, Yutong Wang, Chen Sun, Bai Li, Xiao Wang, Amir Khajepour. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
+
+- **Shucheng Huang**, Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
+
+### Note:
+*: Equal contribution first author or Corresponding author
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

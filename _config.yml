@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Bruce H"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Bruce H College"
-  location         :  # "Beijing, China"
+  name             : "Shucheng (Bruce) Huang"
+  avatar           : "images/citations.jpeg"
+  bio              : "University of Waterloo"
+  location         :   "Waterloo, Ontario, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl=en"

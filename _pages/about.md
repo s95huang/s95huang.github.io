@@ -30,8 +30,8 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 
 # 🔥 News
 - *2024.08*:  I have completed my comprehensive exam.
-- *2024.07*: 2 papers are accepted by ITSC 2024.
-- *2023.05*: I have joined the University of Waterloo as a Ph.D. student at MSV Lab.
+- *2024.07*: 2 papers accepted to ITSC 2024, see you in Edmonton.
+- *2023.05*: I have started my Ph.D. at MSV Lab, Department of Mechanical and Mechatronics Engineering, University of Waterloo.
 
 # 📝 Publications 
 
@@ -41,12 +41,18 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 - Wenrui Ye, Munur Sacit Herdem, **Shucheng Huang**, Wei Sun, Jun Liu, Jatin Nathwani, John Z Wen. Component capacity optimization of a renewable energy system using data-driven two-stage algorithmic approach. *Energy Conversion and Management*, 312: 118588, 2024.
 
 
-- Yaodong Cui, **Shucheng Huang***, Jiaming Zhong, Zhenan Liu, Yutong Wang, Chen Sun, Bai Li, Xiao Wang, Amir Khajepour. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
+- Yaodong Cui, **Shucheng Huang**, Jiaming Zhong, Zhenan Liu, Yutong Wang, Chen Sun, Bai Li, Xiao Wang, Amir Khajepour. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
 
 - **Shucheng Huang**, Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
 
-### Note:
-*: Equal contribution first author or Corresponding author
+## Conference Papers
+
+- Yufeng Yang, Minghao Ning, **Shucheng Huang**, Ehsan Hashemi, Amir Khajepour. Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
+
+- Minghao Ning, Yaodong Cui, Yufeng Yang, **Shucheng Huang**, Zhenan Liu, Alghooneh Ahmad, Ehsan Hashemi, Amir Khajepour. Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
+
+<!-- ### Note:
+*: Equal contribution first author or Corresponding author -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

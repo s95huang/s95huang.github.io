@@ -15,22 +15,24 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
-I'm currently a PhD candidate at the University of Waterloo. My research mainly focuses on the application of LLMs in autonomous driving. Aside from that, I am actively working on integrating learning-based algorithms into vehicle and energy systems (prediction, control etc.). 
+I'm currently a PhD candidate at the University of Waterloo. My current research mainly focuses on the application of large language models in autonomous driving and energy domains. Aside from that, I am actively working on integrating learning-based algorithms into vehicle and energy systems (prediction, control etc.).
 
 I have 4 years of work experience in ADAS systems and autonomous driving software development across passenger vehicles, heavy-duty trucks, and mining vehicles.
 
 Please email me at s95huang@uwaterloo.ca if you are interested in my research, including potential collaborations, or if you have any questions.
 
-<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- iSWijVsAAAAJ&hl -->
+<a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fs95huang%2Fs95huang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
 - *2024.08*:  I have completed my comprehensive exam.
-- *2024.07*: 2 papers accepted to ITSC 2024, see you in Edmonton.
+- *2024.07*: 2 papers accepted to IEEE ITSC 2024, see you in Edmonton,ON, Canada.
 - *2023.05*: I have started my Ph.D. at MSV Lab, Department of Mechanical and Mechatronics Engineering, University of Waterloo.
 
 # 📝 Publications 
@@ -51,6 +53,16 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 
 - Minghao Ning, Yaodong Cui, Yufeng Yang, **Shucheng Huang**, Zhenan Liu, Alghooneh Ahmad, Ehsan Hashemi, Amir Khajepour. Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
 
+
+## Submitted:
+
+- 2 journals submmitted to IEEE T-ITS (Aug 2024, May 2024)
+
+- 1 journal submiited to IEEE IoT (Jun. 2024)
+
+- 1 jourmal submitted to TRC (Sep 2024)
+
+
 <!-- ### Note:
 *: Equal contribution first author or Corresponding author -->
 
@@ -67,15 +79,15 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+
+
+<!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 - *2023.05 - Present*, Ph.D. in Mechanical and Mechatronics Engineering, University of Waterloo
 
 - *2018 - 2020*, M.A.Sc. in Mechanical and Mechatronics Engineering, University of Waterloo

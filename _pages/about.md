@@ -48,7 +48,7 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 
 - Yaodong Cui\*, **Shucheng Huang\***, Jiaming Zhong\*, Zhenan Liu, Yutong Wang, Chen Sun<sup>‡</sup>, Bai Li, Xiao Wang, Amir Khajepour. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
 
-- **Shucheng Huang<sup>*,‡</sup>**  , Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
+- **Shucheng Huang**<sup>*,‡</sup>, Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
 
 
 ###  Submitted:
@@ -65,21 +65,8 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 - Yufeng Yang, Minghao Ning, **Shucheng Huang<sup>‡</sup>**, Ehsan Hashemi, Amir Khajepour. Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
 
 - Minghao Ning, Yaodong Cui, Yufeng Yang, **Shucheng Huang**, Zhenan Liu, Alghooneh Ahmad, Ehsan Hashemi, Amir Khajepour. Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 
-
-<!-- **Note**: -->
 
  \*: Equal contribution first author
 <!--  correponding -->

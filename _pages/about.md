@@ -43,17 +43,25 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 
 ## Journal Papers
 
-- Wenrui Ye, Munur Sacit Herdem, **Shucheng Huang**, Wei Sun, Jun Liu, Jatin Nathwani, John Z Wen<sup>‡</sup>. Component capacity optimization of a renewable energy system using data-driven two-stage algorithmic approach. *Energy Conversion and Management*, 312: 118588, 2024.
+- Wenrui Ye, Munur Sacit Herdem, **Shucheng Huang**, et al. Component capacity optimization of a renewable energy system using data-driven two-stage algorithmic approach. *Energy Conversion and Management*, 312: 118588, 2024.
 
 
-- Yaodong Cui\*, **Shucheng Huang\***, Jiaming Zhong\*, Zhenan Liu, Yutong Wang, Chen Sun<sup>‡</sup>, Bai Li, Xiao Wang, Amir Khajepour. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
+- Yaodong Cui\*, **Shucheng Huang\***, Jiaming Zhong\*, et al. Drivellm: Charting the path toward full autonomous driving with large language models. *IEEE Transactions on Intelligent Vehicles*, 2023.
 
-- **Shucheng Huang**<sup>*,‡</sup>, Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
+
+<!-- @article{zhu2023real,
+  title={Real-time traffic sign detection network based on Swin Transformer},
+  author={Zhu, Wei and Ying, Yue and Chen, Yikai and Huang, Shucheng and others},
+  year={2023}
+} -->
+- Wei Zhu, Yue Ying, Yikai Chen, **Shucheng Huang**, et al. Real-time traffic sign detection network based on Swin Transformer, 2023.
+
+- **Shucheng Huang<sup>‡</sup>**, Amir Khajepour. A new adiabatic compressed air energy storage system based on a novel compression strategy. *Energy*, 242: 122883, 2022.
 
 
 ###  Submitted:
 
-- TRC (Sep 2024)
+- IEEE TIV (Sep 2024)
 
 - IEEE IoT (Jun. 2024)
 
@@ -69,7 +77,7 @@ Please email me at s95huang@uwaterloo.ca if you are interested in my research, i
 
 
  \*: Equal contribution first author
-<!--  correponding -->
+
 ‡: Corresponding author
 
 

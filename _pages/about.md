@@ -22,9 +22,9 @@ redirect_from:
 # 👋 About Me
 Greetings! 
 I am a Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/mechatronic-vehicle-systems-lab/'>Amir Khajepour </a>  and <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
-Prior to Phd studies, I completed my M.A.Sc. in Mechanical and Mechatronics Engineering at UWaterloo and worked at Almon equipment Ltd. and LoopX Innovation Inc.
-
-My research interests include large language models in autonomous driving, time-series prediction. My current research highlights the following perspectives:
+ My research interests include large language models in autonomous driving, time-series prediction. If you are interested in my research, would like to collaborate, or have any questions, please feel free to reach out to me via email at s95huang@uwaterloo.ca.
+ 
+ My current research highlights the following perspectives:
 - **Large Language Models in Autonomous Driving** 
   - More human-like, interpretable Decision-making
   - Safe Driving in dynamic environments considering social norms and interaction
@@ -37,8 +37,14 @@ My research interests include large language models in autonomous driving, time-
   - Time Series Forecasting
   - Offline Optimization and online management
 
+
+
+
+Prior to Phd studies, I completed my M.A.Sc. in Mechanical and Mechatronics Engineering at UWaterloo and worked at Almon equipment Ltd. and LoopX Innovation Inc.
+
 I have 4 years of work experience in ADAS systems and autonomous driving software development across passenger vehicles, heavy-duty trucks, and mining vehicles.
-I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus project</a> at <a href="https://uwaterloo.ca/mechatronic-vehicle-systems-lab/">MVS Lab</a> working on software and algorithmic development of decision-making module required for <a href="https://uwaterloo.ca/news/media/university-waterloo-launches-canadas-first-driverless">Canada's first autonomous shuttle bus</a> approved via the ministry's autonomous vehicle pilot. Check out my [research projects](/research/) and [publications](/publications/).
+I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus project</a> at <a href="https://uwaterloo.ca/mechatronic-vehicle-systems-lab/">MVS Lab</a> working on software and algorithmic development of decision-making module required for <a href="https://uwaterloo.ca/news/media/university-waterloo-launches-canadas-first-driverless">Canada's first autonomous shuttle bus</a> approved via the ministry's autonomous vehicle pilot. 
+<!-- Check out my [research projects](/research/) and [publications](/publications/). -->
 
 
 
@@ -47,7 +53,7 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 
 # Recent News
 <!-- Allowed emojis: 🎉for good news 📣for average news-->
-
+- *2024.11*:   I am looking for summer interns for 2025 in North America.
 - *2024.09*: 🎉  I have joined **CompLING Lab**, co-supervised by Prof. Freda Shi
 - *2024.08*: 🎉  I have completed my comprehensive exam.
 - *2024.07*: 📣  2 papers accepted to **IEEE ITSC 2024**, see you in Edmonton,ON, Canada.
@@ -57,9 +63,8 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 
 # 📝 Publications 
 
-**You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=iSWijVsAAAAJ).** <br>
+**You can find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=iSWijVsAAAAJ).** <br>
 <a href='https://scholar.google.com/citations?user=iSWijVsAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fs95huang%2Fs95huang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 
 
 ‡: corresponding author
@@ -155,7 +160,7 @@ compression strategy,” Energy, vol. 242, p. 122 883, 2022.
 |                       | NeurIPS 2024 Workshop on Safe Generative AI (SafeGenAI)                                           |
 
 
-<!--  Interesting facts -->
-<!-- # 📷/🚴‍♂️ Fun Facts
+ <!-- Interesting facts -->
+# 📷/🚴‍♂️ Fun Facts -->
 - I enjoy taking picutres with DSLR cameras, including standard U Waterloo portraits (like mine), and graduation photos
 - I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. -->

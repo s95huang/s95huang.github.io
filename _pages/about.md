@@ -53,7 +53,7 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 
 # Recent News
 <!-- Allowed emojis: 🎉for good news 📣for average news-->
-- *2024.11*:   I am looking for summer interns for 2025 in North America.
+<!-- - *2024.11*:   I am looking for summer interns for 2025 in North America. -->
 - *2024.09*: 🎉  I have joined **CompLING Lab**, co-supervised by Prof. Freda Shi
 - *2024.08*: 🎉  I have completed my comprehensive exam.
 - *2024.07*: 📣  2 papers accepted to **IEEE ITSC 2024**, see you in Edmonton,ON, Canada.
@@ -74,15 +74,15 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 
 ## Journal Papers
 
+- T. Huang, R. Fu, Q. Sun, Z. Deng, **S. Huang**, and L. Jin, “Toward human-vehicle collaboration for
+automated vehicles: A review and perspective,” IEEE Transactions on Intelligent Transportation Systems,
+2024.
+
 - W. Ye, M. S. Herdem, **S. Huang**, W. Sun, J. Liu, J. Nathwani, and J. Z. Wen, “Component capacity
 optimization of a renewable energy system using data-driven two-stage algorithmic approach,” Energy
 Conversion and Management, vol. 312, p. 118 588, 2024.
 
-
-
-
-
-- Y. Cui, **S. Huang\***, J. Zhong, Z. Liu, Y. Wang, C. Sun, B. Li, X. Wang, and A. Khajepour, “Drivellm:
+- Y. Cui*, **S. Huang\***, J. Zhong*, Z. Liu, Y. Wang, C. Sun, B. Li, X. Wang, and A. Khajepour, “Drivellm:
 Charting the path toward full autonomous driving with large language models,” IEEE Transactions on
 Intelligent Vehicles, 2023.
 
@@ -94,23 +94,27 @@ compression strategy,” Energy, vol. 242, p. 122 883, 2022.
 
 ## Conference Papers
 
-- Yufeng Yang, Minghao Ning, **Shucheng Huang<sup>‡</sup>**, Ehsan Hashemi, Amir Khajepour. Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
+- Y.Yang*, M. Ning, **S. Huang<sup>‡</sup>**, E. Hashemi, A. Khajepourr, “Intelligent mobility system- integrated
+planning and control for indoor settings,” IEEE Intelligent Transportation Systems Conference (ITSC),
+2024.
 
-- Minghao Ning, Yaodong Cui, Yufeng Yang, **Shucheng Huang**, Zhenan Liu, Alghooneh Ahmad, Ehsan Hashemi, Amir Khajepour. Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach. *IEEE Intelligent Transportation Systems Conference (ITSC)*, 2024.
+- M. Ning*, Y. Cui*, Y. Yang, **S. Huang**, Z. Liu, A. R. Alghooneh, E. Hashemi, and A. Khajepour,
+“Multi-modal perception for intelligent indoor mobility,” IEEE Intelligent Transportation Systems
+Conference (ITSC), 2024.
 
 ## Other
 - Wei Zhu, Yue Ying, Yikai Chen, **Shucheng Huang**, et al. Real-time traffic sign detection network based on Swin Transformer, 2023.
-## Patent
-- Chao Yu, Haomin Zheng, Jinwei Zhang, Yaodong Cui, **Shucheng Huang**, Jiaming Zhong, Amir Khajepour. Systems and methods for estimating a state for positioning autonomous vehicles transitioning between different environments. US Patent App. 18/600,238, Sep. 2024.
 
+## Patent
+- C. Yu, H. Zheng, J. Zhang, C. Yaodong, **S. Huang**, J. Zhong, and A. Khajepour, Systems and methods for
+estimating a state for positioning autonomous vehicles transitioning between different environments, US
+Patent App. 18/600,238, Sep. 2024.
 
 ##  Submitted:
 
 - IEEE TIV (Sep 2024)
 
-- IEEE IoT (Jun. 2024)
-
-- IEEE T-ITS (Aug 2024, May 2024)
+- IEEE T-ITS (Jan 2025, Aug 2024, May 2024)
 
 
 # 🎖 Honors and Awards
@@ -145,7 +149,7 @@ compression strategy,” Energy, vol. 242, p. 122 883, 2022.
 - Fall 2019, Teaching Assistant, Fluid Power Control Systems
 
 
-#  Review Activities
+#  Professional Service
 
 |                       | **Details**                                                                                       |
 |-----------------------|---------------------------------------------------------------------------------------------------|
@@ -161,6 +165,6 @@ compression strategy,” Energy, vol. 242, p. 122 883, 2022.
 
 
  <!-- Interesting facts -->
-# 📷/🚴‍♂️ Fun Facts -->
-- I enjoy taking picutres with DSLR cameras, including standard U Waterloo portraits (like mine), and graduation photos
-- I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. -->
+<!-- # 📷/🚴‍♂️ Fun Facts --> -->
+<!-- - I enjoy taking picutres with DSLR cameras, including standard U Waterloo portraits (like mine), and graduation photos -->
+<!-- - I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. --> -->

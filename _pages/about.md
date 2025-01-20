@@ -124,6 +124,10 @@ Patent App. 18/600,238, Sep. 2024.
 <!-- # Academic Acitivities -->
 
 
+<!-- # 📊 Research Projects  -->
+<!-- to be updated later -->
+
+
 # 📖 Educations
 
 - *2023.05 - Present*, Ph.D. in Mechanical and Mechatronics Engineering, University of Waterloo
@@ -133,9 +137,10 @@ Patent App. 18/600,238, Sep. 2024.
 - *2014 - 2018*, B.Sc. in Mechanical Engineering, Penn State University
 
 
-<!-- # 💬 Invited Talks -->
+# 💬 Invited Talks
 
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.12*, Advancing perception sotif through multi-modal large language models, Tsinghua University, China
+
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
@@ -149,22 +154,36 @@ Patent App. 18/600,238, Sep. 2024.
 - Fall 2019, Teaching Assistant, Fluid Power Control Systems
 
 
-#  Professional Service
+<!-- #  Professional Service -->
+
+# 📝 Professional Service
 
 |                       | **Details**                                                                                       |
 |-----------------------|---------------------------------------------------------------------------------------------------|
-| **Journal**           | Accident Analysis and Prevention (AAP)                                                                                             |
+| **Journal review**           | Accident Analysis and Prevention (AAP)                                                                                             |
 |                       | Engineering Applications of Artificial Intelligence (EAAI)                                                   |
 |                       | IEEE Transactions on Intelligent Transportation Systems (TITS)                                    |
 |                       | IEEE Transactions on Vehicular Technology (TVT)                                                   |
 |                       | IEEE Transactions on Instrumentation and Measurement (TIM)                                       |
 |                       | International Journal of Mining Science and Technology (IJMST)                                    |
-| **Conference/Workshop** |                                                                                                  |
+| **Conference/Workshop Refereeing** |                                                                                                  |
 |                       | IEEE Intelligent Transportation Systems Conference (ITSC), 2024                                   |
 |                       | NeurIPS 2024 Workshop on Safe Generative AI (SafeGenAI)                                           |
 
 
+<!-- # Skills -->
+
+<!-- Programming ⋄ MATLAB/Simulink, Python (Pytorch), C++, ROS/ROS2
+Software ⋄ CarSim/TruckSim, Carla, Prescan
+Hardware ⋄ Arduino, dSPACE, NVIDIA Jetson, Raspberry Pi, STM32
+Languages ⋄ Chinese - Mandarin (Native), English (Academic/Business Professional) -->
+
+# 📊 Skills
+
+
+
+
  <!-- Interesting facts -->
-<!-- # 📷/🚴‍♂️ Fun Facts --> -->
+<!-- # 📷/🚴‍♂️ Fun Facts --> 
 <!-- - I enjoy taking picutres with DSLR cameras, including standard U Waterloo portraits (like mine), and graduation photos -->
 <!-- - I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. --> -->

@@ -1,0 +1,18 @@
+current directory: /mnt/5117d90f-eb65-44b3-abb2-88b525dc9459/Bruce/s95huang.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/home/bruce-u224090/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/5117d90f-eb65-44b3-abb2-88b525dc9459/Bruce/s95huang.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250814-45506-75i56a sitelibdir\=./.gem.20250814-45506-75i56a clean
+
+current directory: /mnt/5117d90f-eb65-44b3-abb2-88b525dc9459/Bruce/s95huang.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250814-45506-75i56a sitelibdir\=./.gem.20250814-45506-75i56a
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /mnt/5117d90f-eb65-44b3-abb2-88b525dc9459/Bruce/s95huang.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250814-45506-75i56a sitelibdir\=./.gem.20250814-45506-75i56a install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250814-45506-75i56a/racc
+
+current directory: /mnt/5117d90f-eb65-44b3-abb2-88b525dc9459/Bruce/s95huang.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250814-45506-75i56a sitelibdir\=./.gem.20250814-45506-75i56a clean

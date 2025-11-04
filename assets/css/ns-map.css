@@ -1,0 +1,87 @@
+.ns-map{--bg:#0f1117;--card:#111827;--ink:#e6edf3;--muted:#9fb0c2;--accent:#60a5fa;--line:#223047}
+.ns-map *{box-sizing:border-box}
+.ns-map .hdr{background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:12px;
+  padding:14px 16px;margin:16px 0 10px 0;box-shadow:0 8px 24px #0003}
+.ns-map .hdr h2{margin:.1em 0 .25em 0;font-size:20px}
+.ns-map .hdr p{margin:0;color:var(--muted);font-size:14px}
+.ns-map .toolbar{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.ns-map .btn{padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:#0b1220;color:var(--ink);cursor:pointer}
+.ns-map .grid{display:grid;gap:14px;margin:10px 0 20px 0;grid-template-columns:repeat(3,minmax(0,1fr))}
+@media (max-width:980px){.ns-map .grid{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){.ns-map .grid{grid-template-columns:1fr}}
+.ns-map .card{background:linear-gradient(180deg,#0c1422,#0a111d);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.ns-map .card header{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid var(--line)}
+.ns-map .dot{width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 10px var(--accent)}
+.ns-map h3{margin:0;font-size:16px}
+.ns-map details{border-top:1px solid var(--line)}
+.ns-map summary{list-style:none;cursor:pointer;padding:10px 14px;display:flex;gap:8px;align-items:center}
+.ns-map summary::-webkit-details-marker{display:none}
+.ns-map .chev{transition:transform .2s ease}
+.ns-map details[open] .chev{transform:rotate(90deg)}
+.ns-map .content{padding:6px 18px 12px 32px}
+.ns-map .content ul{margin:6px 0 0 0;padding:0;list-style:none}
+.ns-map .content li+li{margin-top:6px}
+.ns-map a{color:var(--accent);text-decoration:none}
+.ns-map a:hover{text-decoration:underline}
+.ns-map .small{color:var(--muted);font-size:14px}
+
+.ns-table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 12px;
+}
+
+.ns-row {
+  display: table-row;
+}
+
+.ns-cell {
+  display: table-cell;
+  vertical-align: top;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  min-width: 280px;
+}
+
+.ns-title {
+  margin-top: 0;
+  font-size: 1.1rem;
+  color: var(--accent);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 4px;
+}
+
+.ns-summary {
+  cursor: pointer;
+  padding: 6px 0;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.ns-summary:hover {
+  color: var(--accent);
+}
+
+.ns-content ul {
+  margin: 6px 0 0 16px;
+  padding: 0;
+}
+
+.ns-content li {
+  margin-bottom: 4px;
+}
+
+@media (max-width: 800px) {
+  .ns-cell {
+    display: block;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .ns-row {
+    display: block;
+  }
+}

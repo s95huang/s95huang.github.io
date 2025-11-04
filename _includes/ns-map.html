@@ -1,0 +1,78 @@
+<div class="ns-map" id="ns-map">
+  <link rel="stylesheet" href="{{ '/assets/css/ns-map.css' | relative_url }}">
+  
+  <div class="hdr">
+    <h2>Neuro-Symbolic Concepts: Representations</h2>
+    <p class="small">
+      An interactive, collapsible map. Click any row to expand; links open in new tabs.
+    </p>
+    <div class="toolbar">
+      <button class="btn" id="ns-toggle-all" aria-expanded="false">Show all</button>
+    </div>
+  </div>
+
+  <div class="ns-table">
+    <!-- Row 1 -->
+    <div class="ns-row">
+      <div class="ns-cell">
+        <h3 class="ns-title">Text LLM</h3>
+        <details class="ns-details">
+          <summary class="ns-summary">Text Large Language Models</summary>
+          <div class="ns-content">
+            <ul>
+              <li><a href="https://arxiv.org/abs/2305.13288" target="_blank" rel="noopener">Language Models are Unsupervised Multitask Learners</a></li>
+              <li><a href="https://arxiv.org/abs/2305.13288" target="_blank" rel="noopener">Language Models are Few-Shot Learners</a></li>
+              <li><a href="https://arxiv.org/abs/2305.13288" target="_blank" rel="noopener">Language Models are Zero-Shot Learners</a></li>
+              <li><a href="https://arxiv.org/abs/2305.13288" target="_blank" rel="noopener">Language Models are Supervised Learners</a></li>
+            </ul>
+          </div>
+        </details>
+      </div>
+
+      <div class="ns-cell">
+        <h3 class="ns-title">Decision-Making</h3>
+        <details class="ns-details">
+          <summary class="ns-summary">Decision-Making Models</summary>
+          <div class="ns-content">
+            <ul>
+              <li><a href="#" target="_blank" rel="noopener">Model 1</a></li>
+              <li><a href="#" target="_blank" rel="noopener">Model 2</a></li>
+              <li><a href="#" target="_blank" rel="noopener">Model 3</a></li>
+            </ul>
+          </div>
+        </details>
+      </div>
+    </div>
+
+    <!-- Row 2 -->
+    <div class="ns-row">
+      <div class="ns-cell">
+        <h3 class="ns-title">Visual LLM</h3>
+        <details class="ns-details">
+          <summary class="ns-summary">Visual Language Models</summary>
+          <div class="ns-content">
+            <ul>
+              <li><a href="#" target="_blank" rel="noopener">Model A</a></li>
+              <li><a href="#" target="_blank" rel="noopener">Model B</a></li>
+            </ul>
+          </div>
+        </details>
+      </div>
+
+      <div class="ns-cell">
+        <h3 class="ns-title">Planning & Control</h3>
+        <details class="ns-details">
+          <summary class="ns-summary">Planning Models</summary>
+          <div class="ns-content">
+            <ul>
+              <li><a href="#" target="_blank" rel="noopener">Planner 1</a></li>
+              <li><a href="#" target="_blank" rel="noopener">Planner 2</a></li>
+            </ul>
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ '/assets/js/ns-map.js' | relative_url }}"></script>
+</div>

@@ -54,6 +54,8 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 # Recent News
 <!-- Allowed emojis: 🎉for good news 📣for average news-->
 <!-- - *2024.11*:   I am looking for summer interns for 2025 in North America. -->
+- *2025.05*: 🎉  I have received and declined OGS and the QEII-GSST due to conflict with NSERC PGS D.
+- *2025.05*: 🎉  I have received and accepted NSERC Postgraduate Scholarship – Doctoral (PGS D).
 - *2024.09*: 🎉  I have joined **CompLING Lab**, co-supervised by Prof. Freda Shi
 - *2024.08*: 🎉  I have completed my comprehensive exam.
 - *2024.07*: 📣  2 papers accepted to **IEEE ITSC 2024**, see you in Edmonton,ON, Canada.
@@ -74,29 +76,33 @@ I participated in the <a href="https://uwaterloo.ca/watonobus/">WATonoBus projec
 
 ## Journal Papers
 
-- T. Huang, R. Fu, Q. Sun, Z. Deng, **S. Huang**, and L. Jin, “Toward human-vehicle collaboration for
-automated vehicles: A review and perspective,” IEEE Transactions on Intelligent Transportation Systems,
-2024.
+### LLM in Autonomous Driving:
+- **S. Huang***, F. Shi, C. Sun, J. Zhong, M. Ning, Y. Yang, Y. Lu, H. Wang, and A. Khajepour, “Drivesotif: Advancing sotif
+through multimodal large language models,” IEEE Transactions on Vehicular Technology, 2025.
 
-- W. Ye, M. S. Herdem, **S. Huang**, W. Sun, J. Liu, J. Nathwani, and J. Z. Wen, “Component capacity
-optimization of a renewable energy system using data-driven two-stage algorithmic approach,” Energy
-Conversion and Management, vol. 312, p. 118 588, 2024.
+- Y. Cui, **S. Huang***, J. Zhong, Z. Liu, Y. Wang, C. Sun, B. Li, X. Wang, and A. Khajepour, “Drivellm: Charting the path
+toward full autonomous driving with large language models,” IEEE Transactions on Intelligent Vehicles, vol. 9, no. 1,
+pp. 1450–1464, 2023.
 
-- Y. Cui*, **S. Huang\***, J. Zhong*, Z. Liu, Y. Wang, C. Sun, B. Li, X. Wang, and A. Khajepour, “Drivellm:
-Charting the path toward full autonomous driving with large language models,” IEEE Transactions on
-Intelligent Vehicles, 2023.
+### Autonomous Driving:
+- T. Huang, R. Fu, Q. Sun, Z. Deng, **S. Huang**, and L. Jin, “Toward human-vehicle collaboration for automated vehicles: A
+review and perspective,” IEEE Transactions on Intelligent Transportation Systems, 2025.
+- L. Jin, T. Huang, Z. Deng, and **S. Huang**, “Vehicle trajectory prediction based on driver’s cognitive mechanism,” IEEE
+Internet of Things Journal, 2025.
+- J. Zhong, L. Khoshnevisan, **S. Huang**, M. Pirani, Y. V. Pant, and A. Khajepour, “Multi-objective agent-based model
+predictive controller for plug-and-play vehicle control,” IEEE Transactions on Intelligent Transportation Systems, 2025.
 
-- **S. Huang<sup>‡</sup>** and A. Khajepour, “A new adiabatic compressed air energy storage system based on a novel
-compression strategy,” Energy, vol. 242, p. 122 883, 2022.
-
-
-
+### Energy Systems:
+- W. Ye, M. S. Herdem, **S. Huang**, W. Sun, J. Liu, J. Nathwani, and J. Z. Wen, “Component capacity optimization of a
+renewable energy system using data-driven two-stage algorithmic approach,” Energy Conversion and Management,
+vol. 312, p. 118 588, 2024.
+- **S. Huang*** and A. Khajepour, “A new adiabatic compressed air energy storage system based on a novel compression
+strategy,” Energy, vol. 242, p. 122 883, 2022.
 
 ## Conference Papers
 
 - Y.Yang*, M. Ning, **S. Huang<sup>‡</sup>**, E. Hashemi, A. Khajepourr, “Intelligent mobility system- integrated
-planning and control for indoor settings,” IEEE Intelligent Transportation Systems Conference (ITSC),
-2024.
+planning and control for indoor settings,” IEEE Intelligent Transportation Systems Conference (ITSC), 2024.
 
 - M. Ning*, Y. Cui*, Y. Yang, **S. Huang**, Z. Liu, A. R. Alghooneh, E. Hashemi, and A. Khajepour,
 “Multi-modal perception for intelligent indoor mobility,” IEEE Intelligent Transportation Systems
@@ -110,19 +116,20 @@ Conference (ITSC), 2024.
 estimating a state for positioning autonomous vehicles transitioning between different environments, US
 Patent App. 18/600,238, Sep. 2024.
 
-##  Submitted:
+<!-- ##  Submitted:
 
 - IEEE TIV (Sep 2024)
 
-- IEEE T-ITS (Jan 2025, Aug 2024, May 2024)
+- IEEE T-ITS (Jan 2025, Aug 2024, May 2024) -->
 
 
 # 🎖 Honors and Awards
-* 2023-2024, University of Waterloo Graduate Scholarship
-* 2018-2020, University of Waterloo Graduate Scholarship
 
-<!-- # Academic Acitivities -->
-
+* 2025-Present, NSERC Postgraduate Scholarship – Doctoral,  NSERC
+* 2025, President's Graduate Scholarship, University of Waterloo 
+* 2025, OGS/QEII-GSST, Ontario,  (declined)
+* 2023-Present,  Engineering Domestic Doctoral Student Award, University of Waterloo
+* 2019,  Engineering Domestic Graduate Scholarship, University of Waterloo
 
 <!-- # 📊 Research Projects  -->
 <!-- to be updated later -->
@@ -144,10 +151,8 @@ Patent App. 18/600,238, Sep. 2024.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2020.01 - 2024.03*, LoopX Innovation Inc., Waterloo, ON, Canada. (My startup)
-   - 2020.01- 2022.11, Unpaid Part-time
-   - 2022.12 - 2024.03, Full-time
-- *2020.11 - 2022.11*, Almon Equipment Ltd, Toronto, ON, Canada.
+- *2020.01 - 2024.03*, CTO & Co-founder, LoopX Innovation Inc., Waterloo, ON, Canada. (My startup)
+- *2020.11 - 2022.11*, Autonomous system control engineer, Almon Equipment Ltd, Toronto, ON, Canada.
 
 # 📚 Teaching Experience
 - Spring 2019, Teaching Assistant, Robot Manipulators
@@ -180,10 +185,13 @@ Languages ⋄ Chinese - Mandarin (Native), English (Academic/Business Profession
 
 # 📊 Skills
 
-
+Programming ⋄    MATLAB/Simulink, Python (Pytorch), C++, ROS/ROS2 \
+Software ⋄    CarSim/TruckSim, Carla, Prescan \
+Hardware ⋄    Arduino, dSPACE, NVIDIA Jetson, Raspberry Pi, STM32 \
+Languages ⋄    Chinese - Mandarin (Native), English - Academic/Business Professional
 
 
  <!-- Interesting facts -->
 <!-- # 📷/🚴‍♂️ Fun Facts --> 
 <!-- - I enjoy taking picutres with DSLR cameras, including standard U Waterloo portraits (like mine), and graduation photos -->
-<!-- - I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. --> -->
+<!-- - I am really into biking. I have a road bike and a mountain bike. I also have a bike trainer at home. -->
